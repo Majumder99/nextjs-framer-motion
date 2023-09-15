@@ -52,8 +52,7 @@ export default function ThemeContextProvider({
       value={{
         theme,
         toggleTheme,
-      }}
-    >
+      }}>
       {children}
     </ThemeContext.Provider>
   );
