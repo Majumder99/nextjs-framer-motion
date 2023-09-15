@@ -3,3 +3,6 @@ fixed top-0 left-1/2 -translate-x-1/2 h-[4.5rem] w-full
 -translate-x-1/2 = -50% of width
 
 section-divider mane holo ekta vertical daag section-divider.tsx
+
+
+useInView use kore we can detect if a component is in view or not. or active or not
